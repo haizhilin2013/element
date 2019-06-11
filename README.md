@@ -29,7 +29,7 @@
     <img src="https://opencollective.com/element/backers/badge.svg">
   </a>
   <a href="#sponsors">
-    <img src="https://opencollective.com/element/sponsors/badge.svg">
+    <img src="https://opencollective.com/element/sponsors/badge.svg1">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
